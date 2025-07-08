@@ -1,5 +1,5 @@
 
-# SafeType-Ai 🛡️  
+# SafeType Ai 🛡️  
 **AI-Powered Parental Control for Safer Digital Experiences**
 
 ## Overview
