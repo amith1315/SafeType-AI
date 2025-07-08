@@ -1,10 +1,10 @@
 
-# Key Guardian 🛡️  
+# SafeType-Ai 🛡️  
 **AI-Powered Parental Control for Safer Digital Experiences**
 
 ## Overview
 
-**Key Guardian** is a parental control application designed to help parents monitor their child's online activity and ensure a safer digital environment.  
+**SafeType AI** is a parental control application designed to help parents monitor their child's online activity and ensure a safer digital environment.  
 The application is installed on the child's laptop, where it **detects and logs keystrokes** in real-time.  
 The captured data is sent to an **AI-based backend** that analyzes the keystrokes to detect the use of **abusive language** or **NSFW content**.
 
@@ -82,16 +82,4 @@ npm run dev
 - End-to-end encryption for keystroke data
 - Whitelist/Blacklist customization for parents
 
----
-
-## Built By
-[Vincent Samuel Paul](https://github.com/VincentSamuelPaul)
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
